@@ -1,4 +1,4 @@
-package srcNo21;
+package HFM;
 
 public class Node<T> implements Comparable<Node<T>> {
     private T data;
